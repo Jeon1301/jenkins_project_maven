@@ -41,7 +41,7 @@ public class VoiceController {
             else if(lang.equals("en"))		// 영어
             	naraVoice="clara";
             else if(lang.equals("ja"))		// 일본어
-            	naraVoice="nnaomi";
+            	naraVoice="driko";
             else if(lang.equals("zh-CN"))	// 중국어
             	naraVoice="meimei";
             else if(lang.equals("es"))		// 스페인어
