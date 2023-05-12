@@ -27,6 +27,7 @@
 <h2><b>Jenkins에 Maven Project 배포 연습</b></h2>
 
 <h5>젠킨스 배포 성공!!!!</h5>
+<h3>자동 빌드 테스트 성공???</h3>
 </body>
 </html>
 
